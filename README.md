@@ -4,7 +4,7 @@
 <!--                    HEADER SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mothish+S+%F0%9F%91%8B;Aspiring+Software+Engineer;Full+Stack+Developer+in+Progress;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mothish+S+%F0%9F%91%8B; alt="Typing SVG" />
 
 <br/>
 
@@ -87,7 +87,7 @@ I'm a passionate **Computer Science Engineering student** with a strong foundati
 |----------|---------|-------|
 | 🟢 **HackerRank** | [btechcse230613](https://www.hackerrank.com/profile/btechcse230613) | Problem Solving, Java, SQL |
 | 🟤 **CodeChef** | [smvec_23ucs103](https://www.codechef.com/users/smvec_23ucs103) | Competitive Programming |
-| 🟡 **LeetCode** | *Coming Soon* | DSA Practice |
+| 🟡 **LeetCode** | (https://leetcode.com/u/mothi123/)| DSA Practice |
 | 🔵 **LinkedIn** | [Mothish S](https://www.linkedin.com/in/mothish-s-a79097328/) | Professional Network |
 
 </div>
