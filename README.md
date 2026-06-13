@@ -104,8 +104,7 @@ I'm a passionate **Computer Science Engineering student** with a strong foundati
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION GRAPH SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
+![mothi371056's Stats](https://github-readme-stats.vercel.app/api?username=mothi371056&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!-- Replace `MothishS` with your exact GitHub username -->
 
