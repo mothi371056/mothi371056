@@ -124,13 +124,7 @@ I'm a passionate **Computer Science Engineering student** with a strong foundati
 
 <!-- Replace `MothishS` with your exact GitHub username -->
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MothishS&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
+![mothi371056's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mothi371056&theme=vue-dark&hide_border=true)
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               FEATURED PROJECTS SECTION                    -->
