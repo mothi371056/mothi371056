@@ -99,22 +99,7 @@ I'm a passionate **Computer Science Engineering student** with a strong foundati
 
 ## 📊 GitHub Statistics
 
-<!-- Replace `MothishS` below with your exact GitHub username -->
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MothishS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MothishS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MothishS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--               CONTRIBUTION GRAPH SECTION                   -->
